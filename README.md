@@ -1,3 +1,1 @@
-I will be using an mlb dataset from kaggles that has complete game data for four mlb seasons. I will choose ten specific players, five batters and five pitchers. FOr the batters I will use the data to calculate and predict a homerun rate, a clutch score, and classify the players star potential.
-For the pitchers, I will calculate their dominance, predict an earned run average, and classify their status as an ace based on their stats. 
-URL: https://www.kaggle.com/pschale/mlb-pitch-data-20152018
+I collected chess game data from chess.com and compared the different play styles between my friends and myself. 
